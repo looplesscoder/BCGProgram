@@ -1,6 +1,6 @@
 # BCGProgram
 
-  It has has 4 tasks
+  It had 4 tasks
         
         1: Business Understanding & Hypothesis Framing
         2: Exploratory Data Analysis And Data Cleaning
